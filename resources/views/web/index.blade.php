@@ -39,13 +39,13 @@
                         <a class="nav-link" href="/">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Menu">Menu</a>
+                        <a class="nav-link" href="/Menu">Menu</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Nosotros">Nosotros</a>
+                        <a class="nav-link" href="/Nosotros">Nosotros</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Reservas">Reservas</a>
+                        <a class="nav-link" href="/Reservas">Reservas</a>
                     </li>
                 </ul> 
                 <ul class="navbar-nav ml-auto">
